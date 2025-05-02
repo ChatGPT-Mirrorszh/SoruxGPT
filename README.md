@@ -1,7 +1,7 @@
-# **SoruxGPT：ChatGPT 在线免费中文网页**
+# **SoruxGPT：ChatGPT4.5o在线免费中文网页**
 
 > **项目名称（Project Name）：** SoruxGPT  
-> **项目标题（Title）：** ChatGPT 网页在线免费版，支持国内中文交互  
+> **项目标题（Title）：** ChatGPT4o网页在线免费版，支持国内中文交互  
 
 [![SoruxGPT](https://img.shields.io/badge/SoruxGPT-ChatGPT%20Online%20Free%20版-brightgreen.svg)](https://soruxgpt.top)
 
@@ -9,9 +9,9 @@
 
 ## **项目简介**1
 
-SoruxGPT 提供了一种便捷的「ChatGPT 网页在线免费版」体验，旨在为国内用户打造一个稳定、易用且中文友好的 ChatGPT 在线平台。项目利用最新的 AI 技术，帮助大家无需登录即可在线访问，同时持续提供「chatgpt在线网页版永久免费」的服务。
+SoruxGPT 提供了一种便捷的「ChatGPT4o网页在线免费版」体验，旨在为国内用户打造一个稳定、易用且中文友好的 ChatGPT4.5在线平台。项目利用最新的AI技术，帮助大家无需登录即可在线访问，同时持续提供「chatgpto4mini在线网页版永久免费」的服务。
 
-在这里，你可以随时开启和 ChatGPT 的对话，包括但不限于中文、英文或其他语言，让 AI 来辅助你进行写作、编程、学习和思考。对于想要简单快速访问、并且需要中文支持的用户而言，SoruxGPT 将是一个理想的「国内免费的chatgpt网页版」。2025/4/6
+在这里，你可以随时开启和 ChatGPT的对话，包括但不限于中文、英文或其他语言，让 AI 来辅助你进行写作、编程、学习和思考。对于想要简单快速访问、并且需要中文支持的用户而言，SoruxGPT 将是一个理想的「国内免费的chatgpt网页版」。2025/5/2
 
 ---
 
